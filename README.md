@@ -1,2 +1,2 @@
 # QuantumComputing
-Self learning and examples
+Self Study repo
